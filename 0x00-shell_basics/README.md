@@ -1,1 +1,1 @@
-print absoluate path
+print absoluate path f
