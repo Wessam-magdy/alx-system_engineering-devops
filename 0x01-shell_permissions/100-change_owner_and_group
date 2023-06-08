@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vicnet:staff _hello
+chown vicnet:staff *
