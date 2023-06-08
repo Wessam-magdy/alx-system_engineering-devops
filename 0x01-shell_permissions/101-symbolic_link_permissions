@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vicnet:staff *
+chown vicnet:staff _hello *
